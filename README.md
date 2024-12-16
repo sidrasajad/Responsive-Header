@@ -10,8 +10,6 @@ A project that demonstrates an error-free and responsive header built using HTML
   Implemented media queries and flexible layouts to ensure the header looks perfect on all devices, from desktops to mobile phones.
 - **Dropdown Menu:**
   Includes a functional dropdown menu.
-- **Dropdown Menu:**
-  Includes a functional dropdown menu.
 - **JavaScript Integration:**
   Added dynamic elements with JavaScript to enhance user interaction and functionality.
 - **Optimized Performance:**
